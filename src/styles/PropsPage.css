@@ -1,0 +1,37 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #b0b0b0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Props Page Container */
+.props-container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+}
+
+/* Title */
+.props-title {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Message */
+.props-message {
+    font-size: 20px;
+    font-weight: bold;
+    color: #555;
+}
